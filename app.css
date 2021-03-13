@@ -1,0 +1,59 @@
+.colorbox{
+    width: 200px;
+    background-color: red;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.06s;
+}
+
+#frst{
+    margin: 20px auto;
+    width: 700px;
+}
+body{
+    background-color: #232323;
+    margin: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(255, 0, 98);
+    margin: 0;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+button{
+    text-align: center;
+    border: none;
+    background: none;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    height: 100%;
+    font-size: inherit;
+    font-weight: 700;
+    color:rgb(201, 6, 81);
+    transition: all 2.0s;
+    outline: none;
+}
+
+#space{
+    background-color: white;
+    text-align: center;
+    height: 30px;
+}
+.background{
+    background-color: rgb(255, 0, 98);
+}
+#dis{
+    font-size: 200%;
+}
+#msg{
+    display: inline-block;
+    width: 20%;
+}
+button:hover{
+    color: white;
+    background-color: rgb(255, 0, 98);
+}
